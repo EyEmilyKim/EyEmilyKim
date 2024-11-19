@@ -62,8 +62,8 @@
 ### 📚 I'm working on...
 
 > - Every-day Algorithm Study [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=myue4555)](https://solved.ac/myue4555) <a href="https://github.com/EyEmilyKim/BOJ">🔗</a>
-> - My Spring Boot Project : Maintanance <a href="https://github.com/EyEmilyKim/MyPrj_MyAccountBook3_springBoot">🔗</a>
-> - My React Project : Developing 90% done <a href="https://github.com/EyEmilyKim/MyPrj_MyChat_react-express-websocket">🔗</a>  
+> - My Spring Boot Project "My Account Book 3": Deployed & Maintanance <a href="https://github.com/EyEmilyKim/MyPrj_MyAccountBook3_springBoot">🔗</a>
+> - My React Project "My Chatting App": Developing (90%) <a href="https://github.com/EyEmilyKim/MyPrj_MyChat-Retry">🔗</a>  
 >   and more ...    
 >   📌   
 >   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eyemilykim&theme=buefy&show_icons=true&hide_rank=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
